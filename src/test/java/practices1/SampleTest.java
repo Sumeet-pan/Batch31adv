@@ -7,7 +7,8 @@ public class SampleTest {
 	public void appleTest()
 	{
 		System.out.println("apple tested");
-		System.out.println("grapes tested ");
+System.out.println(" bannana tested");
+
 	}
 
 }
