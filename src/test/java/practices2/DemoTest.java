@@ -7,6 +7,7 @@ public class DemoTest {
 	public void orangeTest()
 	{
 		System.out.println("orange tested");
+		System.out.println("jackfruit tested ");
 	}
 
 }
